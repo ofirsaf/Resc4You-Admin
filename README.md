@@ -6,9 +6,13 @@ The project has 3 users: citizens, volunteers, and administrators.
 
 The env file should look like that:
 REACT_APP_measurementId=
+
 REACT_APP_GOOGLE_MAPS_API_KEY=
+
 REACT_APP_Service_ID=
+
 REACT_APP_Template_ID=
+
 REACT_APP_USER_ID=
 
 Admin Video- https://www.youtube.com/watch?v=dVoyetxsGeE&t=6s
